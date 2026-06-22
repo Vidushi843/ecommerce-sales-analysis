@@ -1,0 +1,16 @@
+Date,Product,Category,Quantity,Price
+2026-01-05,Laptop,Electronics,2,45000
+2026-01-08,Mouse,Electronics,10,500
+2026-01-12,Notebook,Stationery,50,40
+2026-01-15,Laptop,Electronics,,45000
+2026-01-18,Pen,Stationery,100,10
+2026-01-22,Headphones,Electronics,5,
+2026-02-02,Mouse,Electronics,8,500
+2026-02-05,Notebook,Stationery,30,40
+2026-02-10,Laptop,Electronics,3,45000
+2026-02-14,Headphones,Electronics,4,1500
+2026-02-18,T-Shirt,Clothing,15,400
+2026-02-20,Jeans,Clothing,,1200
+2026-02-22,Pen,Stationery,80,10
+2026-02-25,T-Shirt,Clothing,10,400
+2026-02-10,Laptop,Electronics,3,45000
